@@ -1,5 +1,5 @@
 {
-  "name": "@nurigo/superrest",
+  "name": "superrest",
   "version": "1.0.0",
   "description": "Supertest helpers to test REST APIs.",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MediaComem/superrest.git"
+    "url": "git+https://github.com/KimGenius/superrest"
   },
   "keywords": [
     "supertest",
