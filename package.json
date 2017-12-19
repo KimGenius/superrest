@@ -1,5 +1,5 @@
 {
-  "name": "superrest",
+  "name": "@nurigo/superrest",
   "version": "1.0.0",
   "description": "Supertest helpers to test REST APIs.",
   "main": "index.js",
